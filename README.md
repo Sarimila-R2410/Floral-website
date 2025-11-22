@@ -17,21 +17,21 @@ A modern, interactive plant e-commerce website built with Next.js 13+ and Tailwi
 
 ## Tech Stack
 
-Framework: Next.js 
-Styling: Tailwind CSS
-Components: React functional components
+- Framework: Next.js 
+- Styling: Tailwind CSS
+- Components: React functional components
 
 ## Instructions to run the project
 
 Install dependencies
-pnpm install
+- pnpm install
 
 Run development server
-npm run dev
-Open http://localhost:3000 to see the site.
+- npm run dev
+- Open http://localhost:3000 to see the site.
 
 Build for production locally 
-pnpm build
-pnpm start
+- pnpm build
+- pnpm start
 
 
