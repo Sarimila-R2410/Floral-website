@@ -30,7 +30,7 @@ Run development server
 npm run dev
 Open http://localhost:3000 to see the site.
 
-4. Build for production locally 
+Build for production locally 
 pnpm build
 pnpm start
 
