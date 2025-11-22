@@ -1,6 +1,6 @@
 # FloraVision - Premium Plant E-Commerce Store
 
-## Deployed Link - https://floral-website-2.onrender.com/
+## Deployed Link - 
 
 A modern, premium plant e-commerce website built with Next.js 16, React 19, and Tailwind CSS v4.
 
